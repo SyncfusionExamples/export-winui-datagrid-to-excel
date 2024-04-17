@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExcelExporting (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ExcelExporting (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
